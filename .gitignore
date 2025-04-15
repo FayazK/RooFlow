@@ -1,6 +1,5 @@
 memory-bank/
 dev/
-.vscode
 .roomodes
 .roo/
 node_modules/
@@ -14,3 +13,6 @@ rooflow_logo_raw.png
 !/config/default-mode/.clinerules-default
 output.log
 claude-code-prompt.txt
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
